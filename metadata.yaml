@@ -1,0 +1,36 @@
+_repo: Poems--1686-_41076
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Morton, Richard Everett
+    aliases:
+    - Morton, Richard
+    - Morton, R. E. (Richard Everett)
+    birthdate: 1930
+    gutenberg_agent_id: '40969'
+    url: http://www.gutenberg.org/2009/agents/40969
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Killigrew, Anne
+    birthdate: 1660
+    deathdate: 1685
+    gutenberg_agent_id: '40968'
+    url: http://www.gutenberg.org/2009/agents/40968
+description: ''
+gutenberg_issued: '2012-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41076'
+  lccn: '67010177'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- Early modern, 1500-1700'
+- !lcc 'PR'
+title: Poems (1686)
+url: http://www.gutenberg.org/ebooks/41076
